@@ -42,4 +42,5 @@ and your good to go
 
 
 
+so the program i have here only works on my phone as i only have an free account with ngrok and twilo
 
