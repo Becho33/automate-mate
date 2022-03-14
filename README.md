@@ -44,3 +44,7 @@ and your good to go
 
 so the program i have here only works on my phone as i only have an free account with ngrok and twilo
 
+in my next repo i aim to create a chat bot that has a intellegent conversation.
+
+then next one will be to launch it on a cloud computer 
+
